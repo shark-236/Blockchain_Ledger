@@ -8,7 +8,7 @@ Goal: To build a blockchain-based ledger with a user-friendly web interface. Thi
 This program uses the following programs:   
 Python version 3.9.15   
 Pandas version 1.5.2   
-Streamlit version []   
+Streamlit version 1.16.0   
 
 ---
 
