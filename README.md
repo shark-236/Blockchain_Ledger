@@ -1,4 +1,4 @@
-# Module_18_Challenge
+# Blockchain Ledger
 Goal: To build a blockchain-based ledger with a user-friendly web interface. This ledger will allow the transfer of money between senders and receivers. The transactions will be recorded in hashed blocks, which can then be historically verified to maintain integrity. 
 
 ---
